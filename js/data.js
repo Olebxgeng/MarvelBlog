@@ -37,7 +37,7 @@ export const data = [
         date: "November 20, 2022",
         title: "Black Panther Podcast",
         text: "Check out the Black Panther podcast for an intimate look at the making on Black Panther: Wakanda Forver.",
-        href: "#"
+        href: "../BlackPanther.html"
     },
     {
         img: "../images/iron-man.jpg",
