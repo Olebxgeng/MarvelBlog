@@ -13,7 +13,7 @@ export const data = [
         date: "January 14, 2023",
         title: "Kang The Conqueror",
         text: "Making his debut in Loki, Kang has made it clear that he is the main protagonist of phase 5 in the MCU Universe, but who is he?",
-        href: "#"
+        href: "../KangTC.html"
     },
     {
         img: "../images/thor.jpg",
