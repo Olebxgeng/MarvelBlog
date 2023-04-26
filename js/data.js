@@ -69,6 +69,6 @@ export const data = [
         date: "June 1, 2022",
         title: "Who is Venom",
         text: "When Spider-Man acquired a living symbiote costume, he had no idea it would later spawn a major adversary",
-        href: "#"
+        href: "../Venom.html"
     }
 ]
