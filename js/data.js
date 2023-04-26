@@ -19,9 +19,9 @@ export const data = [
         img: "../images/thor.jpg",
         alt: "Thor surrounded my lighting",
         date: "December 3, 2022",
-        title: "Will Thor ever find out about Steve?",
-        text: "Thor has been travelling throughout the universe since the events of Avengers:Endgame, little does he know that back home on Earth, a tragedy has occured.",
-        href: "#"
+        title: "10 Fun Facts about Thor",
+        text: "All the random things you should know about Thor Odinson.",
+        href: "../Thor.html"
     },
     {
         img: "../images/Deadpool.webp",
@@ -40,12 +40,12 @@ export const data = [
         href: "../BlackPanther.html"
     },
     {
-        img: "../images/iron-man.jpg",
-        alt: "Iron Man",
+        img: "../images/ironheart..jpg",
+        alt: "Iron Heart",
         date: "September 20, 2022",
-        title: "Who will be the new Iron Man",
-        text: "With the death of Tony Stark in Avengers:Engame when he sacrificed himself to save the universe, questions have rised on who will take his place as leader of the Avengers.",
-        href: "#"
+        title: "While attending M.I.T., fifteen-year-old Riri Williams created a suit of armor that could rival Tony Stark’s.",
+        text: "Genius Riri Williams, inspired by Tony Stark, decides to build her own suit of incredible armor to fight for the good of humanity.",
+        href: "../IronHeart.html"
     },
     {
         img: "../images/scarlet_witch.jpg",
