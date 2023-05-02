@@ -2,7 +2,7 @@ import { data } from "./data.js";
 
 function renderRecentPostsGrid() {
     let recentPostsGridHtml = ''
-    const recentPostsArray = data.slice(6,9)
+    const recentPostsArray = data.slice(2,5)
     
     recentPostsArray.forEach( function (blogPost) { 
         recentPostsGridHtml += `

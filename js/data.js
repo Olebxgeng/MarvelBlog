@@ -52,8 +52,8 @@ export const data = [
         alt: "Comic book scarlet witch",
         date: "July 23, 2022",
         title: "History of Scarlet Witch & Magneto",
-        text: "Scarlet Witch first met Magneto when he saved her and her twin brother Pietro, AKA the super-speedster Quicksilver, from a mob of superstitious villagers who believed that Wanda a witch. From this time onward, Magneto often guilted both Wanda and Pietro into repaying him by serving in his Brotherhood of Evil Mutants",
-        href: "#"
+        text: "Scarlet Witch first met Magneto when he saved her and her twin brother Pietro, AKA the super-speedster Quicksilver, from a mob of superstitious villagers who believed that Wanda a witch.",
+        href: "../ScarletWitch.html"
     },
     {
         img: "../images/vision.webp",
