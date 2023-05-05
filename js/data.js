@@ -56,12 +56,12 @@ export const data = [
         href: "../ScarletWitch.html"
     },
     {
-        img: "../images/vision.webp",
+        img: "../images/visionfamilytree.jpg",
         alt: "Vision",
         date: "July 23, 2022",
-        title: "VISION",
-        text: "A perfect balance between man and machine. Was Visions sacrifice necessary? Or was it all for nothing?",
-        href: "#"
+        title: "The Vision Family Tree",
+        text: "Learn the twisted roots of the Super Hero's family tree.",
+        href: "../VisionFamilyTree.html"
     },
     {
         img: "../images/venom.webp",
