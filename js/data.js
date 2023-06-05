@@ -1,11 +1,11 @@
 export const data = [
     {
-        img: "../images/SPD-man.jpg",
+        img: "./images/SPD-man.jpg",
         alt: "SpiderMan",
         date: "March 20, 2023",
         title: "Spiderman now on Disney+",
         text: "Peter One, Peter Two, Peter Three, AND Venom are coming soon.",
-        href: "../Spideyblog.html"
+        href: "./Spideyblog.html"
     },
     {
         img: "../images/kang.jpg",
